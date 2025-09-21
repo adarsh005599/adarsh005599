@@ -81,7 +81,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=header"/>
 </p>
 
-<h2 align="center">☕ Chai • ☕ Coffee • 🚀 Chaos</h2>
+<h2 align="center">☕ Code • ☕ Coffee • 🚀 Chaos</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="300" alt="Chai Coffee Chaos"/>

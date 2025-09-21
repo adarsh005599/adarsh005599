@@ -4,7 +4,6 @@
 </p>
 
 ---
-
 # 💻 About Me  
 🌟 **Interests**: Web Development, AI Integration Tools, Agentic AI  
 👷‍♂️ **Currently Working On**: Exciting open-source projects & side hustles  
@@ -12,7 +11,6 @@
 📖 **Learning**: Exploring system design, modern frameworks & AI tools  
 
 ---
-
 # 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-singh0099" target="_blank">
@@ -24,9 +22,7 @@
 </p>
 
 ---
-
 # ⚡ Tech Stack  
-
 ### 🚀 Languages & Core
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
@@ -51,9 +47,7 @@
 ![API Handling](https://img.shields.io/badge/API%20Handling-4CAF50?style=flat-square)
 
 ---
-
 # 📊 GitHub Analytics  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarsh005599&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh005599&layout=compact&theme=tokyonight" height="170"/>
@@ -68,14 +62,12 @@
 </p>
 
 ---
-
 # 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adarsh005599&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
-
 # ⚡ Fun Zone  
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
@@ -84,8 +76,17 @@
 ✨ *In development or in life, there’s always room for improvement...*  
 
 ---
-
-<!-- Footer Banner -->
+<!-- Chai Coffee & Chaos Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=header"/>
+</p>
+
+<h2 align="center">☕ Chai • ☕ Coffee • 🚀 Chaos</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="300" alt="Chai Coffee Chaos"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=footer"/>
 </p>

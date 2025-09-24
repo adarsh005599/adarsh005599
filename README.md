@@ -61,13 +61,11 @@ https://adarsh-portfolio-xpm1.vercel.app/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh005599&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
-
 ---
 # 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adarsh005599&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
 </p>
-
 ---
 # ⚡ Fun Zone  
 <p align="center">

@@ -1,10 +1,10 @@
 <!-- Header Banner -->
+// visite portfolio
+https://adarsh-portfolio-xpm1.vercel.app/
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi%20There!%20I'm%20Adarsh%20Singh%20🤝&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-// visite portfolio
-https://adarsh-portfolio-xpm1.vercel.app/
----
 # 💻 About Me  
 🌟 **Interests**: Web Development, AI Integration Tools, Agentic AI  
 👷‍♂️ **Currently Working On**: Exciting open-source projects & side hustles  

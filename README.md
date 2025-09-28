@@ -31,8 +31,7 @@ https://adarsh-portfolio-xpm1.vercel.app/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 📊 Data & Backend  
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)

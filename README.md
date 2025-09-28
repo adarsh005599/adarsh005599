@@ -24,11 +24,11 @@ https://adarsh-portfolio-xpm1.vercel.app/
 
 ---
 # ⚡ Tech Stack  
-### 🚀 Languages & Core
+###  Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 📊 Data & Backend  
 

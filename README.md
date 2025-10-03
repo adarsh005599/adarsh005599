@@ -2,6 +2,18 @@
 visite portfolio👽👽
 https://adarsh-portfolio-xpm1.vercel.app/
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi%20There!%20I'm%20Adarsh%20Singh%20🤝&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+# 💻 About Me  
+🌟 **Interests**: Web Development, AI Integration Tools, Agentic AI  
+👷‍♂️ **Currently Working On**: Exciting open-source projects & side hustles  
+🎯 **Goals**: Deliver impactful products & contribute to open source  
+📖 **Learning**: Exploring system design, modern frameworks & AI tools  
+
+---
 🌿 Some days bloomed in green.
 
 🌫️ Some days faded to grey.
@@ -15,18 +27,6 @@ But every square tells a story —
 🧱 of choosing to build
 
 ✨ even when it hurt.  
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi%20There!%20I'm%20Adarsh%20Singh%20🤝&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-# 💻 About Me  
-🌟 **Interests**: Web Development, AI Integration Tools, Agentic AI  
-👷‍♂️ **Currently Working On**: Exciting open-source projects & side hustles  
-🎯 **Goals**: Deliver impactful products & contribute to open source  
-📖 **Learning**: Exploring system design, modern frameworks & AI tools  
-
----
 # 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-singh0099" target="_blank">

@@ -2,6 +2,15 @@
 visite portfolio👽👽
 https://adarsh-portfolio-xpm1.vercel.app/
 
+🌿 Some days bloomed in green.
+🌫️ Some days faded to grey.
+But every square tells a story —
+📅 of showing up,
+💫 of staying soft,
+🧱 of choosing to build
+✨ even when it hurt.  
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Hi%20There!%20I'm%20Adarsh%20Singh%20🤝&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -21,14 +30,6 @@ https://adarsh-portfolio-xpm1.vercel.app/
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
 </p>
-
-🌿 Some days bloomed in green.
-🌫️ Some days faded to grey.
-But every square tells a story —
-📅 of showing up,
-💫 of staying soft,
-🧱 of choosing to build
-✨ even when it hurt.  
 
 ---
 # ⚡ Tech Stack  

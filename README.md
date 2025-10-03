@@ -22,6 +22,14 @@ https://adarsh-portfolio-xpm1.vercel.app/
   </a>
 </p>
 
+🌿 Some days bloomed in green.
+🌫️ Some days faded to grey.
+But every square tells a story —
+📅 of showing up,
+💫 of staying soft,
+🧱 of choosing to build
+✨ even when it hurt.  
+
 ---
 # ⚡ Tech Stack  
 ###  Languages & Core

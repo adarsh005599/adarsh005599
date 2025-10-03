@@ -3,11 +3,17 @@ visite portfolio👽👽
 https://adarsh-portfolio-xpm1.vercel.app/
 
 🌿 Some days bloomed in green.
+
 🌫️ Some days faded to grey.
+
 But every square tells a story —
+
 📅 of showing up,
+
 💫 of staying soft,
+
 🧱 of choosing to build
+
 ✨ even when it hurt.  
 
 

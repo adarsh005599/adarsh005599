@@ -76,6 +76,7 @@ But every square tells a story —
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh005599&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
 ---
 # 🏆 GitHub Achievements  
 <p align="center">

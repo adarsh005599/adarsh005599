@@ -18,7 +18,7 @@
 I’m **Adarsh Singh**, a **clarity-driven full-stack developer** and **AI product builder** from Delhi 🇮🇳.  
 I believe that code isn’t just logic — it’s emotion, precision, and poetry combined.
 
-🧠 **Currently Building:** [**StartBridge**](#) – a platform connecting Tier-2/3 startups with investors, mentors, and opportunities.  
+🧠 **Currently Building:** [**StartBridge**](#).--https://start-bridge.vercel.app/ – a platform connecting Tier-2/3 startups with investors, mentors, and opportunities.  
 🌱 **Exploring:** Agentic AI, System Design, Scalable Architectures.  
 🎯 **Goal:** To create emotionally intelligent software that moves people.  
 ☕ **Mantra:** *Code. Coffee. Chaos. Clarity.*

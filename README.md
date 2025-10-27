@@ -70,7 +70,7 @@ I believe that code isn’t just logic — it’s emotion, precision, and poetry
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarsh005599&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-trophy.vercel.app/?username=adarsh005599&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---

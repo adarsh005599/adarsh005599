@@ -56,6 +56,9 @@ I believe that code isn’t just logic — it’s emotion, precision, and poetry
 </div>
 
 ---
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarsh005599&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ## 📊 GitHub Analytics  
 

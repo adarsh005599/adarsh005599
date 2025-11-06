@@ -9,12 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+⚡;AI+Product+Builder+🧠;Open+Source+Contributor+🌍;Building+for+Bharat+🇮🇳" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106956366?v=4" alt="Adarsh Singh" width="200" height="200" style="border-radius:50%; border: 3px solid #00BFFF;" />
-</p>
-
----
-
+![Profile views](https://komarev.com/ghpvc/?username=adarsh005599&color=blue&style=flat-square)
 ## 💫 About Me  
 
 > *“I didn’t wait for applause — I built in silence.”*

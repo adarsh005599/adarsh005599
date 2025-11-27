@@ -55,12 +55,9 @@ I believe that code isn’t just logic — it’s emotion, precision, and poetry
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=adarsh005599&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh005599&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh005599&theme=tokyonight" height="200"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-trophy.vercel.app/?username=adarsh005599&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>

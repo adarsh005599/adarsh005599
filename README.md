@@ -96,7 +96,7 @@ My philosophy: **Code is the precision; Impact is the poetry.**
 
 - ⚡ **Generative AI Suite:** Developed Imagify, Comrade AI, and StarkDesk (a suite of 6 proprietary AI applications) focused on delivering enterprise-grade creative and operational efficiency.
 - 📱 **Scalable Web Platforms:** Engineered production-ready, full-stack applications (including high-throughput chat applications and secure e-commerce clones).
-- 🧠 **Agentic Systems:** Prototyped and deployed advanced Agentic and Multimodal AI solutions for complex decision-making pipelines.
+- 🧠 Coming-->**Agentic Systems:** Prototyped and deployed advanced Agentic and Multimodal AI solutions for complex decision-making pipelines.
 - 🔧 **Ecosystem Empowerment:** Curated and built essential tools and infrastructure for emerging founders via **StartBridge**.
 
 ---

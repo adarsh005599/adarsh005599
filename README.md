@@ -2,17 +2,10 @@
 
 <a href="https://adarsh-portfolio-xpm1.vercel.app/">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20👋%20I'm%20Adarsh%20Singh&fontAlignY=40&fontSize=45&desc=Builder%20%7C%20Dreamer%20%7C%20Doer&descAlignY=60&fontColor=ffffff"/>
-
 </a>
 
 </p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=750&lines=Full%20Stack%20Architect%20⚡;AI%2FML%20Product%20Builder%20🧠;Driving%20Innovation%20at%20StartBridge%20🌉;Scaling%20Solutions%20for%20Bharat%20🇮🇳;Committed%20to%20Technical%20Excellence%20🎯" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh005599&color=blue&style=flat-square"/>
